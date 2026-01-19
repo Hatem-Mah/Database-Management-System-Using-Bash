@@ -7,6 +7,7 @@ if [[ ! -d "$DATA_PATH" ]]; then
 fi
 
 # 1. Import (Source) the other script files to use their functions
+# source ./data_operations.sh
 # source ./db_operations.sh
 # source ./table_operations.sh
 # source ./data_operations.sh
